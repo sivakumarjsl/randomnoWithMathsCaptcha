@@ -1,0 +1,11 @@
+{
+  "name": "random-number-maths-captcha",
+  "version": "1.0.0",
+  "description": "'random number and maths captcha'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sivakumar",
+  "license": "ISC"
+}
